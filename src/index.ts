@@ -10,7 +10,7 @@ import 'material-design-lite';
 */
 // 1) import the client connector
 // -------------------------
-import { createClient } from '../lib/websocketConnector';
+import { createClient } from './lib/websocketConnector';
 
 // 2) Create a client object
 // -------------------------
